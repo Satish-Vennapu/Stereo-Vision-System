@@ -1,7 +1,7 @@
 
-# ENPM 673 Perception for Autonomous Robots 
+# Perception for Autonomous Robots 
 
-## Project 4
+
 
 ## 1 Stereo Camera Depth Estimation
 
